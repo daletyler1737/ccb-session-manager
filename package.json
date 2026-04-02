@@ -1,0 +1,10 @@
+{
+  "name": "ccb-session-manager",
+  "version": "1.0.0",
+  "description": "Multi-session management for AI agents with context persistence",
+  "scripts": {
+    "start": "node scripts/main.*"
+  },
+  "keywords": ["openclaw", "ccb", "session-manager"],
+  "license": "MIT"
+}
